@@ -1,5 +1,5 @@
 function positions( firstPlace, secondPlace, lastPlace){
-    return `fistPlace`
+    return `firstPlace`
 }
 let nomeDosCompetidores = ["Pedro", "Gabriel", "Daniel"]
 let posicoesDoPodio = [1,2,3]
